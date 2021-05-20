@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.entrepreneurship.rest.webservices.restfulwebservices.model"},{"l":"com.entrepreneurship.rest.webservices.restfulwebservices.model.enums"}]
